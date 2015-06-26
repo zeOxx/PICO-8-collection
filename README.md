@@ -2,9 +2,10 @@
 A collection of the games I make for PICO-8, a fantasy game console!
 
 # What games?
-- QuackQuest 0.1
+- QuackQuest 0.1 (quackquest.p8)
+- Invaders from Space 0.1 (SI.p8)
 
-All games in this collection are made by myself (if there ever is more than one game here) and will probably always be in an unfinished state. Sorry T_T
+All games in this collection are made by myself and will more than likely always be in an unfinished state. Sorry T_T
 
 # How to run these games
 ### Locally
