@@ -2,9 +2,13 @@
 A collection of the games I make for PICO-8, a fantasy game console!
 
 # What games?
-- QuackQuest 0.1 (quackquest.p8)
-- Invaders from Space 0.1 (SI.p8)
-- Invaders from Space REBOOT (ifs.p8)
+### QuackQuest 0.1 (quackquest.p8)
+![QuackQuest](http://www.themineralpatch.com/pico8/QQ.png)
+### Invaders from Space 0.1 (SI.p8)
+![Invaders from Space 0.1](http://www.themineralpatch.com/pico8/SI.png)
+### Invaders from Space REBOOT (ifs.p8)
+![Invaders from Space REBOOT menu](http://www.themineralpatch.com/pico8/IFS.png)
+![Invaders from Space REBOOT WIP](http://www.themineralpatch.com/pico8/IFS2.png)
 
 All games in this collection are made by myself and will more than likely always be in an unfinished state. Sorry T_T
 
